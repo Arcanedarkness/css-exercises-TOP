@@ -13,3 +13,9 @@
     color: blue;
     font-size: 36px;
 }
+
+#anotherId {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
