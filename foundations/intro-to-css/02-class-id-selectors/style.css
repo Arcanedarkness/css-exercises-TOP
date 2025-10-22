@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+
+.glass {
+    background-color: lightpink;
+    font-family: "Times New Roman", "DejaVu Sans", sans-serif;
+    font-size: 36px;
+}
