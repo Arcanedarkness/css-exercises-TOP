@@ -3,11 +3,10 @@
 .glass {
     background-color: lightpink;
     font-family: "Times New Roman", "DejaVu Sans", sans-serif;
-    font-size: 36px;
 }
 
 .glass.cooler {
-    font-size: 60px;
+    font-size: 24px;
 }
 
 #di {
