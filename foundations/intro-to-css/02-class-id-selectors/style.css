@@ -1,8 +1,8 @@
 /* Add CSS Styling */
 
 .glass {
-    background-color: lightpink;
-    font-family: "Times New Roman", "DejaVu Sans", sans-serif;
+    background-color: hsl(351, 68%, 77%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .glass.cooler {
@@ -10,12 +10,12 @@
 }
 
 #di {
-    color: blue;
+    color: #0909ec;
     font-size: 36px;
 }
 
 #anotherId {
-    background-color: lightgreen;
+    background-color: rgb(116, 235, 116);
     font-size: 24px;
     font-weight: 700;
 }
