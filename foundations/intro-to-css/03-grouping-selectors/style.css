@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+.Click {
+    background-color: Black;
+    color: white;
+}
+
+.NoClick {
+    background-color: #FFFF00;
+}
