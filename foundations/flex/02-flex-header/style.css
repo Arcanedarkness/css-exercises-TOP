@@ -2,7 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   align-items: center;
 }
 
@@ -17,10 +17,12 @@
 
 .left-links {
   margin-left: 1em;
+  margin-right: auto;
 }
 
 .right-links {
   margin-right: 1em;
+  margin-left: auto;
 }
 
 ul {
