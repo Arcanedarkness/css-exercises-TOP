@@ -33,6 +33,10 @@ a {
   text-decoration: none;
 }
 
+ul {
+  padding: 0;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
