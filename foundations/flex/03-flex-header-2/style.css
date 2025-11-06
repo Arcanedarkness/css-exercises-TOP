@@ -8,6 +8,15 @@ body {
   font-family: Besley, serif;
 }
 
+.left-side {
+  display: flex;
+} 
+
+.links {
+  display: flex;
+  gap: 10px;
+}
+
 .header {
   background: white;
   border-bottom: 1px solid #ddd;
