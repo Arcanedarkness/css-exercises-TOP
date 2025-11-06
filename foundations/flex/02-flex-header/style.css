@@ -16,7 +16,11 @@
 }
 
 .left-links {
-  margin-left: 10px;
+  margin-left: 1em;
+}
+
+.right-links {
+  margin-right: 1em;
 }
 
 ul {
