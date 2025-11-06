@@ -51,6 +51,10 @@ button {
   padding: 0 1em 1em;
 }
 
+.footer {
+  background-color: #eeeeee;
+}
+
 .content {
   display: flex;
   flex-direction: column;
