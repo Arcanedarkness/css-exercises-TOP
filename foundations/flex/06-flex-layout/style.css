@@ -49,7 +49,7 @@ button {
 .header , .footer {
   display: flex;
   justify-content: space-between;
-  padding: 0 1em 0 1em;
+  padding: 0 0.5em 0 0.5em;
 }
 
 .footer {
@@ -66,4 +66,5 @@ button {
 .left-links , .right-links{
   display: flex;
   gap: 1em;
+  margin: 0.5em;
 }
