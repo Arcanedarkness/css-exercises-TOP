@@ -8,7 +8,7 @@ body {
   font-family: Besley, serif;
 }
 
-.left-side {
+.left-side, .right-side {
   display: flex;
   align-items: center;
   gap: 16px;
@@ -18,12 +18,6 @@ body {
   display: flex;
   gap: 16px;
   padding: 0;
-}
-
-.right-side {
-  display: flex;
-  align-items: center;
-  gap: 16px;
 }
 
 .notifications {
