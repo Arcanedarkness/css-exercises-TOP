@@ -48,14 +48,14 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  display: flex;
-  flex-basis: 33%;
+  padding: 10px;
+  flex: 0 0 30%;
 }
 
 .card-container {
   display: flex;
+  padding: 48px;
   flex-wrap: wrap;
-  flex-basis: 66%;
 }
 
 .sidebar-card-container {
