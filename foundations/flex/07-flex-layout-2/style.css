@@ -20,6 +20,8 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  align-content: center;
+  text-align: center;
 }
 
 .sidebar {
@@ -44,4 +46,5 @@ body {
 
 .sidebar-card-container {
   display: flex;
+  flex: auto;
 }
